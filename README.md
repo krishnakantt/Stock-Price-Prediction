@@ -21,7 +21,7 @@ git clone https://github.com/krishnakantt/Stock-Price-Prediction.git
 cd Stock-Price-Prediction
 
 2. Install dependencies  
-pip install -r requirements.txt  
+pip install -r Requirements.txt  
 
 3. Run the script  
 Open Stock.py and run it in your preferred Python environment or use:  
